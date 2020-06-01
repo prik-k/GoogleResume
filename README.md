@@ -2,7 +2,7 @@
 ## MIT Licenced
 ### Hope you liked it!
 #### Feel free to modify it for your own purpose. 
-##### View it here - https://github.com/prik 
+##### View it here - https://prik-k.github.io/Resume/ 
 
 
 
