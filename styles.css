@@ -23,12 +23,11 @@ h1,ol,ul,li{margin:0;padding:0}
 .gLFyf{border:none;flex:100%;margin-top:-37px;font-size:16px}
 .Tg7LZd{height:44px;width:44px;background:transparent;border:none;flex:0 0 auto;padding:0}
 .RNNXgb{display:flex;border:1px solid #dfe1e5;width:800px;border-radius:24px;height:44px}
-.RNNXgb:hover,.RNNXgb{box-shadow:0 1px 6px 0 rgba(32,33,36,0.28);border-color:rgba(223,225,229,0)}
+.RNNXgb:hover,.RNNXgb{box-shadow:0 1px 1px 0 rgba(32,33,36,0.28);border-color:rgba(223,225,229,0)}
 
 
 /*MAIN BODY STYLES */
-
-			.arrow{
+		.arrow{
 				font-family: arial;
 				font-weight: 500;
 				color: blue;
@@ -87,14 +86,16 @@ h1,ol,ul,li{margin:0;padding:0}
 				font-family: arial;
 				font-weight: 300;
 				color: blue;
-				font-size: 20px;
+				font-size: 18px;
+			}
+			.headrr:hover{
 				text-decoration: underline;
 			}
 			.name{
 				font-family: arial;
 				font-weight: 400;
 				color: blue;
-				font-size: 22px;
+				font-size: 20px;
 			}
 			.contact{
 				text-decoration: underline;
@@ -104,4 +105,7 @@ h1,ol,ul,li{margin:0;padding:0}
 				text-align: right;
 				color: rgba(50, 0, 20, 0.4);
 				padding-top: 80px;
+			}
+			#found{
+				font-size: 14px;
 			}
